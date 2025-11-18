@@ -1,0 +1,23 @@
+[
+  {
+    "id": "UMATH_1",
+    "concept": "multivariable_calculus",
+    "question": "Determine the coordinates, if any, for which $f(x,y) = 6 \\cdot x^2 - 3 \\cdot x^2 \\cdot y + y^3 + 12$ has \n\n1. a Relative Minimum(s)\n2. a Relative Maximum(s)\n3. a Saddle Point(s)\n\nIf a Relative Minimum or Maximum, find the Minimum or Maximum value. If none, enter None.",
+    "answer": "1. The function $f(x,y)$ has Relative Minimum(s) at None with the value(s) None\n2. The function $f(x,y)$ has Relative Maximum(s) at None with the value(s) None\n3. The function $f(x,y)$ has a Saddle Point(s) at $P(-2,2)$, $P(2,2)$",
+    "category": "multivariable_calculus"
+  },
+  {
+    "id": "UMATH_2",
+    "concept": "precalculus_review",
+    "question": "Estimate the average rate of change from $x=2$ to $x=6$ for the following function $f(x)$ whose graph is given below:\n\nNote that the average rate of change of a function from $x=a$ to $x=b$ is $\\frac{ f(b)-f(a) }{ b-a }$.",
+    "answer": "The final answer: $0.5$",
+    "category": "precalculus_review"
+  },
+  {
+    "id": "UMATH_3",
+    "concept": "multivariable_calculus",
+    "question": "Evaluate the integral by choosing the order of integration:\n$$\n\\int_{0}^1 \\int_{1}^2 \\left(\\frac{ y }{ x+y^2 }\\right) \\, dy \\, dx\n$$",
+    "answer": "$\\int_{0}^1 \\int_{1}^2 \\left(\\frac{ y }{ x+y^2 }\\right) \\, dy \\, dx$ = $\\ln\\left(\\frac{25\\cdot\\sqrt{5}}{32}\\right)$",
+    "category": "multivariable_calculus"
+  }
+]

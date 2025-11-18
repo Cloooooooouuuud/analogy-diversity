@@ -1,0 +1,17 @@
+[
+  {
+    "concept": "solving a simple linear equation",
+    "analogy": "Imagine baking cookies in a kitchen: you have to remove the extra sugar first, then divide the remaining dough into equal batches.",
+    "explanation": "In 2x + 3 = 9 you remove 3 (take away extra sugar) to get 2x = 6, then divide by 2 so each batch (x) is 3."
+  },
+  {
+    "concept": "solving a two-step equation",
+    "analogy": "Think of a soccer coach setting up drills: first you reduce the number of players by giving 4 players off the field, then you divide the rest into 3 teams.",
+    "explanation": "For 3x + 4 = 16 you subtract 4 (players leave), giving 3x = 12, then divide into 3 teams → x = 4 players per team."
+  },
+  {
+    "concept": "working with proportions",
+    "analogy": "Picture planning a road trip: if you travel twice as far in the same time, your speed must be doubled, and the fuel usage scales accordingly.",
+    "explanation": "If distance/time = 2/1 and time is fixed, then distance must double. Similarly in x:y = 2:1 if x is 10 then y = 5 to maintain the ratio."
+  }
+]

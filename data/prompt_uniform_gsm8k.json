@@ -1,0 +1,17 @@
+[
+  {
+    "concept": "solving a simple linear equation",
+    "analogy": "Imagine a basketball player shooting free throws: the hoop must remain centered as you adjust your aim and force.",
+    "explanation": "In 2x + 3 = 9 you first subtract 3 from both sides, like removing extra weight so you can aim correctly. Then you divide by 2 (you take half the shots) to find x = 3, like finding your consistent free-throw form."
+  },
+  {
+    "concept": "solving a two-step equation",
+    "analogy": "Think of a relay race where one runner hands the baton then the next runner runs the remaining distance.",
+    "explanation": "For 3x + 4 = 16, you first subtract 4 (the first runner covers that part) to get 3x = 12, then divide by 3 (three runners each run the same leg) so x = 4."
+  },
+  {
+    "concept": "working with proportions",
+    "analogy": "Picture two teams playing a game where the score of one team is always twice the other’s; if one team scores 6 you know the other scored 3.",
+    "explanation": "If y/x = 2/1, and x = 3, then y = 2 * 3 = 6. The ratio is like the teams’ scoring rule, you maintain the proportion between them."
+  }
+]

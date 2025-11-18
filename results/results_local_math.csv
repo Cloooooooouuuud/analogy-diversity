@@ -1,0 +1,9 @@
+id,concept,category,condition,model,prompt_text,model_output,timestamp
+GSM8K_1,grade_school_math,gsm8k_algebra,baseline,microsoft/Phi-3-mini-4k-instruct,You are a reasoning tutor. Solve the following math word problem step by step.  Problem: Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market? Answer (with explanation):,"To solve this problem, we need to calculate the number of duck eggs Janet has left to sell after eating some and using some for baking muffins.
+
+1. Calculate the total number of eggs laid by the ducks per day: 16 eggs.
+2. Subtract the number of eggs Janet eats for breakfast: 16 - 3 = 13 eggs.
+3. Subtract the number of eggs used for baking muffins: 13 - 4 = 9 eggs.
+4. Calculate the amount of money Janet makes by selling the remaining eggs at $2 per egg: 9 eggs * $2/egg = $18.
+
+So, Janet makes $18 every day at the farmers' market.",2025-11-11T21:12:44.744402

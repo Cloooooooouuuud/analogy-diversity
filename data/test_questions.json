@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "concept": "partial derivative",
+    "category": "math",
+    "question": "Explain the concept of partial derivative using an analogy, following the reasoning style of the examples."
+  },
+  {
+    "id": "T2",
+    "concept": "gradient descent",
+    "category": "machine_learning",
+    "question": "Explain gradient descent intuitively through an analogy and reasoning process."
+  },
+  {
+    "id": "T3",
+    "concept": "entropy",
+    "category": "physics",
+    "question": "Use an analogy to describe what entropy means, in the same explanation style."
+  },
+  {
+    "id": "T4",
+    "concept": "overfitting",
+    "category": "machine_learning",
+    "question": "Describe overfitting with a concrete analogy that captures its reasoning pattern."
+  },
+  {
+    "id": "T5",
+    "concept": "matrix multiplication",
+    "category": "math",
+    "question": "Explain matrix multiplication intuitively using a real-world analogy."
+  }
+]
